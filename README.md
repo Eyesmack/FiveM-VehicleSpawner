@@ -5,7 +5,7 @@
 A simple vehicle spawner.
 
 ### Plans
-- To add a menu to this mod, so you don't have to type in the model name.
+- Add a menu to this mod, so you don't have to type in the model name manually.
 - Vehicle save functionality.
 
 ### Natives Used

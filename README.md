@@ -11,7 +11,7 @@ A simple vehicle spawner.
 - [IsModelInCdimage](https://docs.fivem.net/natives/?_0x35B9E0803292B641)
 - [PlayerPedId](https://docs.fivem.net/natives/?_0xD80958FC74E988A6)
 - [GetEntityCoords](https://docs.fivem.net/natives/?_0x1647F1CB)
-- [GetVehiclePedIsIn](https://docs.fivem.net/natives/?_0xAFE92319) or [GetVehiclePedIsIn](https://docs.fivem.net/natives/?_0x9A9112A0FE9A4713)
+- [GetVehiclePedIsIn](https://docs.fivem.net/natives/?_0x9A9112A0FE9A4713)
 - [DeleteEntity](https://docs.fivem.net/natives/?_0xFAA3D236)
 - [RequestModel](https://docs.fivem.net/natives/?_0x963D27A58DF860AC)
 - [HasModelLoaded](https://docs.fivem.net/natives/?_0x98A4EB5D89A0C952)

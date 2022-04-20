@@ -5,7 +5,8 @@
 A simple vehicle spawner.
 
 ### Plans
-**No Current Plans**
+- To add a menu to this mod, so you don't have to type in the model name.
+- Vehicle save functionality.
 
 ### Natives Used
 - [IsModelInCdimage](https://docs.fivem.net/natives/?_0x35B9E0803292B641)
